@@ -1,1 +1,1 @@
-# week1-code-challage
+# Week-1-Codility-Test
